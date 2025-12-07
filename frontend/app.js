@@ -1,0 +1,1 @@
+console.log('Ghost Agent frontend');
